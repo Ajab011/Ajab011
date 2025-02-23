@@ -1,4 +1,4 @@
-<h1>👋 Hi, I’m @Ajab011</h1> 
+-👋 Hi, I’m @Ajab011
 - 👀 I’m interested in the backend
 - 🌱 I’m currently learning React and Node.js
 - 💞️ I’m looking to collaborate on Backend centric projects
