@@ -30,9 +30,6 @@ Fast and interactive chat application with real-time communication using modern 
 * LinkedIn: https://www.linkedin.com/in/ajab-flexwala-a6b62a225/
 * Email: ajabflexwala@gmail.com
 
-
-  ## 📊 GitHub Stats
-
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Ajab011&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
