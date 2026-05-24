@@ -1,11 +1,32 @@
--👋 Hi, I’m @Ajab011
-- 👀 I’m interested in the backend
-- 🌱 I’m currently learning React and Node.js
-- 💞️ I’m looking to collaborate on Backend centric projects
-- 📫 How to reach me ajabflexwala@gmail.com
+# Hi, I'm Ajab 👋
 
+### Full Stack Developer
 
-<!---
-Ajab011/Ajab011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I build modern full-stack applications with a strong focus on backend development 
+
+* 🚀 Building scalable projects with modern JavaScript
+* 💻 Focused on backend engineering & clean architecture
+* ⚡ Exploring React, Node.js & system design
+* 🤝 Open to collaborations and exciting projects
+
+---
+
+⚡ Tech Stack
+
+HTML • CSS • JavaScript • React • Node.js • Express • MongoDB • Git
+
+---
+
+📌 Featured Projects
+
+### Real-Time Chat App
+
+Fast and interactive chat application with real-time communication using modern frontend and backend technologies.
+
+---
+
+ 📫 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/ajab-flexwala-a6b62a225/
+* Email: ajabflexwala@gmail.com
+
